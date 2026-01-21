@@ -1,5 +1,5 @@
 # C-Programming-Lab-Submission
-Solutions for 6 lab questions - [Hari Harananda Sai Rangavajhala]
+Solutions for 10 lab questions - [Hari Harananda Sai Rangavajhala]
 
 # C Programming Lab Submission
 
@@ -12,7 +12,10 @@ This repository contains the solutions for my C Programming lab assignment. Each
 4. **Diamond Pattern**: Prints a diamond shape using nested loops.
 5. **String Length**: Calculates string length using pointer arithmetic.
 6. **GCD Calculator**: Finds the Greatest Common Divisor using recursion.
-
+7. **Studentaveragemarks**:finds the average of the students.
+8. **Car rental rate**:finds rental rate of 3 cars
+9. **SUM and Multiply of complex numbers**: finds sum and multiplication of complex numbers
+10. **
 ## 🚀 How to Run
 1. Clone the repository or download the `.c` files.
 2. Compile using a C compiler (GCC):
