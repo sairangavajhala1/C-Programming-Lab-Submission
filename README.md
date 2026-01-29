@@ -1,5 +1,5 @@
 # C-Programming-Lab-Submission
-Solutions for 10 lab questions - [Hari Harananda Sai Rangavajhala]
+Solutions for 18 lab questions - [Hari Harananda Sai Rangavajhala]
 
 # C Programming Lab Submission
 
@@ -15,7 +15,15 @@ This repository contains the solutions for my C Programming lab assignment. Each
 7. **Studentaveragemarks**:finds the average of the students.
 8. **Car rental rate**:finds rental rate of 3 cars
 9. **SUM and Multiply of complex numbers**: finds sum and multiplication of complex numbers
-10. **
+10. **Employee Details** :finds and stores employee details and give us back
+11. **Store and Print Array Elements**:This program takes input from the user, stores the values in an array, and prints all the elements
+12. **Display Array in Reverse Order**:This program reads n elements into an array and prints them in reverse order.
+13. **Sum of All Array Elements**:This program calculates the sum of all elements present in an array.
+14. **Count Total Duplicate Elements**:This program counts how many duplicate elements exist in an array
+15. **Print All Unique Elements**:This program prints only those elements that appear exactly once in the array.
+16. **Insert an Element at a Given Position**:This program inserts a new element at a specified position in an array by shifting the existing elements to the right.
+17. **Delete an Element at a Given Index**:This program removes an element from a specific position by shifting the remaining elements to the left.
+18. **Merge Two Arrays**:This program combines two separate arrays into a single array by copying elements of both arrays into a third array.
 ## 🚀 How to Run
 1. Clone the repository or download the `.c` files.
 2. Compile using a C compiler (GCC):
