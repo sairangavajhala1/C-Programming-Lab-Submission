@@ -24,6 +24,10 @@ This repository contains the solutions for my C Programming lab assignment. Each
 16. **Insert an Element at a Given Position**:This program inserts a new element at a specified position in an array by shifting the existing elements to the right.
 17. **Delete an Element at a Given Index**:This program removes an element from a specific position by shifting the remaining elements to the left.
 18. **Merge Two Arrays**:This program combines two separate arrays into a single array by copying elements of both arrays into a third array.
+19. **Transpose of a matrix**: program to find transpose of a matrix using sparse matrix
+20. **addition of a matrix**:adding of two matrices using sparse matrices
+21. **additon of two polynomials**:program for adding two polynomials
+22. **multiplicaion of two polynomials**:doing multiplication of two polynomials by taking inputs
 ## 🚀 How to Run
 1. Clone the repository or download the `.c` files.
 2. Compile using a C compiler (GCC):
