@@ -32,6 +32,8 @@ This repository contains the solutions for my C Programming lab assignment. Each
 24. **infix to postfix**:using stacks turning infix expression to postfix expression
 25. **infix to postfix using parenthesis**:tells us how to convert infix expression to postfox expression which contain parenthesis
 26. **postfix to result**:after we got postfix expression we should need to get result for that so this tells us how from a postfix expression we can get result
+27. **linear queue using array**:menu driven programme which follows linear queue
+28. **circular queue using arrays**:menu driven programme which follows circular queue 
 ## 🚀 How to Run
 1. Clone the repository or download the `.c` files.
 2. Compile using a C compiler (GCC):
