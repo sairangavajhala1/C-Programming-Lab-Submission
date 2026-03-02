@@ -33,7 +33,11 @@ This repository contains the solutions for my C Programming lab assignment. Each
 25. **infix to postfix using parenthesis**:tells us how to convert infix expression to postfox expression which contain parenthesis
 26. **postfix to result**:after we got postfix expression we should need to get result for that so this tells us how from a postfix expression we can get result
 27. **linear queue using array**:menu driven programme which follows linear queue
-28. **circular queue using arrays**:menu driven programme which follows circular queue 
+28. **circular queue using arrays**:menu driven programme which follows circular queue
+29. **Queue Reversal Using Stack**:This program implements a queue to manage package processing order and reverses the queue using stack logic 
+30. **Student Roll Numbers Using Singly Linked List**: This program manages student roll numbers using a singly linked list by inserting elements 
+31. **Reverse a Singly Linked List**: This program creates a singly linked list using front insertion and reverses the list using pointer manipulation techniques.
+32. **Find Middle Element in a Linked List**: This program constructs a singly linked list using front insertion and efficiently finds the middle element 
 ## 🚀 How to Run
 1. Clone the repository or download the `.c` files.
 2. Compile using a C compiler (GCC):
