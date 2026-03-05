@@ -37,7 +37,11 @@ This repository contains the solutions for my C Programming lab assignment. Each
 29. **Queue Reversal Using Stack**:This program implements a queue to manage package processing order and reverses the queue using stack logic 
 30. **Student Roll Numbers Using Singly Linked List**: This program manages student roll numbers using a singly linked list by inserting elements 
 31. **Reverse a Singly Linked List**: This program creates a singly linked list using front insertion and reverses the list using pointer manipulation techniques.
-32. **Find Middle Element in a Linked List**: This program constructs a singly linked list using front insertion and efficiently finds the middle element 
+32. **Find Middle Element in a Linked List**: This program constructs a singly linked list using front insertion and efficiently finds the middle element
+33. **Queue Reversal Program** :Reverses the order of elements in a queue to change processing order while maintaining queue structure.
+34. **Singly Linked List End Insertion** : Inserts student roll numbers at the end of a singly linked list and displays the list.
+35. **Reverse Singly Linked List**: Reverses the order of nodes in a singly linked list to display elements in opposite order.
+36. **Find Middle Element in Linked List**:Identifies the middle node of a linked list efficiently using the slow and fast pointer technique.
 ## 🚀 How to Run
 1. Clone the repository or download the `.c` files.
 2. Compile using a C compiler (GCC):
