@@ -42,6 +42,8 @@ This repository contains the solutions for my C Programming lab assignment. Each
 34. **Singly Linked List End Insertion** : Inserts student roll numbers at the end of a singly linked list and displays the list.
 35. **Reverse Singly Linked List**: Reverses the order of nodes in a singly linked list to display elements in opposite order.
 36. **Find Middle Element in Linked List**:Identifies the middle node of a linked list efficiently using the slow and fast pointer technique.
+37. **linear Search**:searchs using linear search
+38. **binary search**:searchs using binary search
 ## 🚀 How to Run
 1. Clone the repository or download the `.c` files.
 2. Compile using a C compiler (GCC):
