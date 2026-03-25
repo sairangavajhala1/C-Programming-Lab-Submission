@@ -1,33 +1,36 @@
 #include <stdio.h>
 
-int binarySearch(int arr[], int n, int target) {
-    int start = 0, end = n - 1;
-    while (start <= end) {
-        int mid = (end + start) / 2;
-        if (arr[mid] == target)
-            return mid;
-        else if (arr[mid] < target)
-            start = mid + 1;
-        else
-            end = mid - 1;
+int main() {
+    int N;
+    printf("enter the number of elements: ");
+    scanf("%d", &N);
+    int arr[N];
+    printf("enter the elements: ");
+    for (int i = 0; i < N; i++) {
+        scanf("%d", &arr[i]);
+    }
+    int X;
+    printf("enter the target value: ");
+    scanf("%d", &X);
+
+    int low = 0, high = N - 1, index = -1;
+    while (low <= high) {
+        int mid = low + (high - low) / 2;
+        if (arr[mid] == X) {
+            index = mid;
+            break;
+        } else if (arr[mid] < X) {
+            low = mid + 1;
+        } else {
+            high = mid - 1;
+        }
     }
     
-    return -1;
-}
-
-int main() {
-    int arr[] = {2, 5, 8, 12, 16, 23, 38, 45, 56, 67};
-    int n = sizeof(arr) / sizeof(arr[0]);
-    int target;
-    printf("Enter the element to search: ");
-    scanf("%d", &target);
-    
-    int result = binarySearch(arr, n, target);
-    
-    if (result != -1)
-        printf("Element found at index: %d\n", result);
-    else
-        printf("Element not found\n");
+    if (index != -1) {
+        printf("The target value %d is present at index %d\n", X, index);
+    } else {
+        printf("The target value %d is not present in the array\n", X);
+    }
     
     return 0;
 }
