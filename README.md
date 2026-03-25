@@ -44,6 +44,10 @@ This repository contains the solutions for my C Programming lab assignment. Each
 36. **Find Middle Element in Linked List**:Identifies the middle node of a linked list efficiently using the slow and fast pointer technique.
 37. **linear Search**:searchs using linear search
 38. **binary search**:searchs using binary search
+39. **Bubble sort**: TV channels by viewing time (input N + times, output sorted times).
+40. **Selection sort** :Rubi’s train tracker numbers (input n + nums, output sorted nums).
+41. **Binary-search**: count of elements <= key in sorted array (input N + sorted array + key, output count).
+42. **Binary-search**: target in sorted array (input N + sorted array + X, output presence/index).
 ## 🚀 How to Run
 1. Clone the repository or download the `.c` files.
 2. Compile using a C compiler (GCC):
