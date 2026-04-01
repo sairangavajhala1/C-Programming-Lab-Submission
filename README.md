@@ -48,7 +48,11 @@ This repository contains the solutions for my C Programming lab assignment. Each
 40. **Selection sort** :Rubi’s train tracker numbers (input n + nums, output sorted nums).
 41. **Binary-search**: count of elements <= key in sorted array (input N + sorted array + key, output count).
 42. **Binary-search**: target in sorted array (input N + sorted array + X, output presence/index).
-## 🚀 How to Run
+43. **insertionsort**:sorting algorithm
+44. **quick sort**:sorting algorithm
+45.**quick sort with descending **:sorts in descending order
+46.**merge sort**:sorting algorithm
+ # 🚀 How to Run
 1. Clone the repository or download the `.c` files.
 2. Compile using a C compiler (GCC):
 
